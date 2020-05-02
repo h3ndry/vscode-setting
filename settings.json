@@ -1,0 +1,155 @@
+{
+    "workbench.iconTheme": null,
+    "workbench.colorTheme": "Material Theme Darker",
+    "editor.fontFamily": "'Input Mono', monospace, 'Fira Code Light',",
+    "files.autoSave": "onWindowChange",
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.letterSpacing": 0.8,
+    "editor.lineHeight": 25,
+    "terminal.integrated.fontWeightBold": "normal",
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "css/"
+        }
+    ],
+    "terminal.external.windowsExec": "C:\\Program Files\\Git\\git-bash",
+    "terminal.explorerKind": "external",
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#616161",
+        "activityBar.activeBorder": "#616161",
+        "list.activeSelectionForeground": "#616161",
+        "list.inactiveSelectionForeground": "#616161",
+        "list.highlightForeground": "#616161",
+        "scrollbarSlider.activeBackground": "#61616150",
+        "editorSuggestWidget.highlightForeground": "#616161",
+        "textLink.foreground": "#616161",
+        "progressBar.background": "#616161",
+        "pickerGroup.foreground": "#616161",
+        "tab.activeBorder": "#616161",
+        "notificationLink.foreground": "#616161",
+        "editorWidget.resizeBorder": "#616161",
+        "editorWidget.border": "#616161",
+        "settings.modifiedItemIndicator": "#616161",
+        "settings.headerForeground": "#616161",
+        "panelTitle.activeBorder": "#616161",
+        "breadcrumb.activeSelectionForeground": "#616161",
+        "menu.selectionForeground": "#616161",
+        "menubar.selectionForeground": "#616161",
+        "editor.findMatchBorder": "#616161",
+        "selection.background": "#61616140"
+    },
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "terminal.integrated.fontFamily": "'Input Mono'",
+    "editor.find.autoFindInSelection": true,
+    "editor.tabSize": 2,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "todohighlight.isEnable": true,
+    "todohighlight.isCaseSensitive": true,
+    "todohighlight.keywords": [
+        "DEBUG:",
+        "REVIEW:",
+        {
+            "text": "NOTE:",
+            //"color": "#ff0000",
+            // "backgroundColor": "#ff0000",
+            // "overviewRulerColor": "grey"
+        },
+        {
+            "text": "HACK:",
+            // "backgroundColor": "rgba(45,78,47,.02)",
+            // "color": "#000",
+            // "isWholeLine": false,
+        },
+        {
+            "text": "TODO:",
+            // "color": "red",
+            // "border": "1px solid red",
+            // "borderRadius": "2px", //NOTE: using borderRadius along with `border` or you will see nothing change
+            // "backgroundColor": "rgba(0,0,0,.02)",
+        },
+    ],
+    "todohighlight.defaultStyle": {
+        "color": "#e4e4e4",
+        "FontWeight": "Bold",
+        "backgroundColor": "rgba(255,174,66,.7)",
+        "cursor": "pointer",
+    },
+    "breadcrumbs.enabled": false,
+    "breadcrumbs.filePath": "off",
+    "debug.console.fontSize": 0,
+    "markdown.preview.fontSize": 0,
+    "vsicons.dontShowNewVersionMessage": true,
+    "window.zoomLevel": 0,
+    "prettier.singleQuote": true,
+    "go.formatTool": "goimports",
+    "go.useLanguageServer": true,
+    "terminal.integrated.fontWeight": "100",
+    "terminal.integrated.letterSpacing": 1,
+    "terminal.integrated.lineHeight": 1.2,
+    "editor.fontWeight": "100",
+    "editor.fontSize": 16,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": [
+                "j",
+                "k"
+            ],
+            "after": [
+                "<Esc>"
+            ]
+        }
+    ],
+    "editor.lineNumbers": "relative",
+    "vim.useSystemClipboard": true,
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": [
+                "Z",
+                "Z"
+            ],
+            "commands": [
+                ":wq"
+            ]
+        },
+        {
+            "before": [
+                "<C-w>"
+            ],
+            "commands": [
+                ":tabclose"
+            ]
+        },
+        {
+            "before": [
+                "<C-n>"
+            ],
+            "commands": [
+                ":tabn"
+            ]
+        },
+        {
+            "before": [
+                "<C-t>"
+            ],
+            "commands": [
+                ":tabp"
+            ]
+        }
+    ],
+    "material-icon-theme.hidesExplorerArrows": true,
+    "explorer.autoReveal": false,
+    "zenMode.centerLayout": false,
+    "materialTheme.accent": "Graphite",
+    "editor.minimap.enabled": false,
+    "vim.camelCaseMotion.enable": true,
+    "vim.cursorStylePerMode.insert": "line",
+    "vim.cursorStylePerMode.normal": "line",
+    "vim.cursorStylePerMode.visual": "line",
+}
